@@ -1,4 +1,7 @@
 # Mchezopesa Limited Football Predictions
+
+![alt text](http://i2.wp.com/itabaza.org/wp-content/uploads/2018/06/Fifa.jpg?fit=860%2C484&ssl=1)
+
 #### Prediction of the home team score, away team score and match result of the home team. 
 #### By Deborah Masibo
 ## Description
