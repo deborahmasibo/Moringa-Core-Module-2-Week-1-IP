@@ -5,7 +5,7 @@
 #### Prediction of the home team score, away team score and match result of the home team. 
 #### By Deborah Masibo
 ## Description
-The project involved predicting match scores using polynomial regression, as well as the match result of the home team (win, draw, loss) using logistic regression. Different tournament were considered, inlcluding FIFA, UEFA and AFC.
+The project involved predicting match scores using polynomial regression, as well as the match result of the home team (win, draw, loss) using logistic regression. Different tournaments were considered, inlcluding FIFA, UEFA and AFC.
 ## Technologies Used
 Programming language: Python  
 
